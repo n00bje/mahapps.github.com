@@ -20,6 +20,7 @@ Currently not all controls are documented. The list of controls with documentati
  - [SplitButton and DropDownButton]({{site.baseurl}}/controls/split_dropdownbutton.html)
  - [TabControl]({{site.baseurl}}/controls/tab-control.html)
  - [TextBox]({{site.baseurl}}/controls/textbox.html)
+ - [HotKeyBox]({{site.baseurl}}/controls/hotkeybox.html)
  - [Tile]({{site.baseurl}}/controls/tile.html)
  - [ToggleButton]({{site.baseurl}}/controls/toggle-button.html)
  - [ToggleSwitch]({{site.baseurl}}/controls/toggle-switch.html)
